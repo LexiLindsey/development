@@ -10,3 +10,9 @@
 
 ## _This is italicize text_
 ```put _ before and after word```
+
+*Now lets bold something*
+
+` * use asterisk before and after word * `
+
+![](https://raw.githubusercontent.com/LexiLindsey/development/master/istock_000048297906_small.jpg)
